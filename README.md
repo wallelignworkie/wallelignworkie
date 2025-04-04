@@ -1,16 +1,24 @@
 ## Hi there 👋
+<h1 align="center">I'm [Your Name] 👋</h1>
 
-<!--
-**wallelignworkie/wallelignworkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔵 I am [Your Name], a Full Stack Software Engineer.
+- 💼 I have worked on various complex projects including **SaaS, ERP, and CRM**.
+- ⚡ I enjoy building **user-friendly interfaces** and solving complex problems.
 
-Here are some ideas to get you started:
+## 🧠 Core Skills:
+- **Front-end:** ⚛️ React, 🔥 Next.js, 🎨 Flutter
+- **Back-end:** ☕ Java, 🦄 Spring Boot, 🔥 Nest.js, ⚡ Express.js
+- **Databases:** 🐘 PostgreSQL, 🐬 MySQL, 🍃 MongoDB
+- **DevOps:** 🐳 Docker, ⚙️ Nginx, 🔨 Jenkins, ☁️ Azure DevOps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 **Feel free to explore my repositories and connect with me!**  
+
+---
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+## 🌎 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://yourportfolio.com)  
