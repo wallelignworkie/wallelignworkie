@@ -59,13 +59,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/github/followers/wallelignworkie?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/wallelignworkie?label=Stars&style=social" />
-</p>
-
-## 📌 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallelignworkie&layout=compact&theme=dark" alt="Most Used Languages" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=wallelignworkie&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wallelignworkie&show_icons=true&theme=default" />
+  </picture>
 </p>
 
 ---
