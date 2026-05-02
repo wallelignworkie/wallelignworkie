@@ -64,15 +64,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallelignworkie&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+<!-- Replace "wallelignworkie" with your actual GitHub username -->
+<img src="https://github-readme-stats.vercel.app/api?username=wallelignworkie&show_icons=true&theme=dark" alt="GitHub Stats">
 
-## 📌 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallelignworkie&layout=compact&theme=dark" alt="Most Used Languages">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallelignworkie&layout=compact&theme=dark" alt="Most Used Languages">
 
 ---
 
