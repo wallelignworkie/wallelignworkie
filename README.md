@@ -2,7 +2,7 @@
 <h1 align="center">I'm Wallelign Workie 👋</h1>
 
 ## About Me
-- 🔵 I am Wallelign, a Full Stack Software Engineer.
+- 🔵 I am Wallelign, Experienced Software Engineer.
 - 💼 I have worked on various complex projects including **SaaS, ERP, and CRM**.
 - ⚡ I enjoy building **user-friendly interfaces** and solving complex problems.
 
