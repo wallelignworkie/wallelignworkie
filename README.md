@@ -59,7 +59,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallelignworkie&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/wallelignworkie?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/wallelignworkie?label=Stars&style=social" />
 </p>
 
 ## 📌 Most Used Languages
